@@ -18,3 +18,10 @@ Tests:       3 skipped, 1 passed, 4 total
 - You only need to edit line 2.
 
 - Look at the docs for comparison operators in JavaScript for a quick reference.
+
+
+number >= 10
+return true
+
+number < 10
+return false
